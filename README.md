@@ -68,3 +68,8 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `npm run build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+
+
+
+### OUTPUT
+![LocalMusicPlayer](https://github.com/saneep-pp/Local-Music-Player-Using-React-Js/assets/61908137/dd4bad51-e8df-4a1e-9be9-7512284082f3)
